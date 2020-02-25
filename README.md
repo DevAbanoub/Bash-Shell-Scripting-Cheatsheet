@@ -8,7 +8,7 @@ Github: [Gists](https://gist.github.com/abanoub-hanna) & [source code apps](http
 
 YouTube: [Abanoub Hanna](https://www.youtube.com/channel/UCA00B6eCd0SrFIsUvkZ_zWw)
 
-Twitter: [Abanoub Hanna](https://twitter.com/banoub)
+Twitter: [Abanoub Hanna](https://twitter.com/banoub_)
 
 # Shell Scripting Crash Course - *Cheatsheet* for beginners
 
