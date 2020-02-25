@@ -4,11 +4,11 @@ Author: [Abanoub Hanna](https://www.abanoubhanna.com)
 
 LinkedIn: [Abanoub Hanna](https://linkedin.com/in/abanoub-hanna/)
 
-Github: [Gists](https://gist.github.com/DevAbanoub) & [source code apps](https://github.com/DevAbanoub)
+Github: [Gists](https://gist.github.com/abanoub-hanna) & [source code apps](https://github.com/abanoub-hanna)
 
 YouTube: [Abanoub Hanna](https://www.youtube.com/channel/UCA00B6eCd0SrFIsUvkZ_zWw)
 
-Twitter: [Abanoub Hanna](https://twitter.com/OfficialAbanoub)
+Twitter: [Abanoub Hanna](https://twitter.com/banoub)
 
 # Shell Scripting Crash Course - *Cheatsheet* for beginners
 
